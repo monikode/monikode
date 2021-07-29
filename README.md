@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Monike Sousa!](https://www.linkedin.com/in/monnifs/) 
 
-<!--
-**mnik3007/mnik3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/monnifs/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:monike.ftsousa@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🚀
+🌱 I’m a Front-end trainee developer graduated in computer technician and studying information systems. </br>
+👨‍💻  I am passionate about Front-end Development and UI/UX Design. </br>
+
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=mnik3007&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnik3007&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mnik3007.mnik3007)
