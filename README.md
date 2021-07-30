@@ -13,8 +13,8 @@
 🌱 I’m a Front-end trainee developer graduated in computer technician and studying information systems. </br>
 👨‍💻  I am passionate about Front-end Development and UI/UX Design. </br>
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=mnik3007&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnik3007&layout=compact&langs_count=8&hide_border=true)
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=monikode&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monikode&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mnik3007.mnik3007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=monikode.monikode)
