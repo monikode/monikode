@@ -18,5 +18,6 @@
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=monikode&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monikode&layout=compact&langs_count=8&hide_border=true)
 <br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monikode&" alt="monikode" /></p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monikode.monikode)
