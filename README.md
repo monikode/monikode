@@ -14,7 +14,7 @@
 
 ### My recent projects
 [Pokedex with Vue.js](https://monikode.github.io/pokedex/)  </br>
-[Github timeline with Github API](https://monikode.github.io/github-timeline/)
+[Github timeline with Github API](https://monikode.github.io/github-timeline/)  </br>
 [Elevator Simulato with HTML, CSS & JS](https://monikode.github.io/elevator/)
 
 <h3 align="left">Languages and Tools:</h3>
