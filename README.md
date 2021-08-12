@@ -25,4 +25,4 @@
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monikode&" alt="monikode" /></p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=monikode.monikode)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=monikode)
