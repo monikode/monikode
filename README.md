@@ -13,7 +13,7 @@
 </p>
 
 ### My recent projects
-[Pokedex with Vue.js](https://monikode.github.io/pokedex/)
+[Pokedex with Vue.js](https://monikode.github.io/pokedex/)  </br>
 [Github timeline with Github API](https://monikode.github.io/github/timeline/)
 
 <h3 align="left">Languages and Tools:</h3>
