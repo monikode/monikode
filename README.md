@@ -3,9 +3,10 @@
 
 ### About Me 🚀
 👩🏻 (She/Her) I'm 18 years old. </br>
-🌱 I’m a Front-end trainee developer graduated in computer technician and studying information systems. </br>
+🌱 I’m a Front-end Junior developer graduated in computer technician and studying information systems. </br>
 👨‍💻  I am passionate about Front-end Development and UI/UX Design. </br>
 🎨  Besides development, I am a self-taught digital artist. </br>
+💼  Junior Software Engineer in VG Residuos. </br>
 
 - 📫 How to reach me **monike.ftsousa@gmail.com**
 <h3 align="left">Connect with me:</h3>
