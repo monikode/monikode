@@ -18,7 +18,7 @@
 ### My recent projects
 |||
 | :------------ | :------------ |
-| [Elevator Simulator with HTML, CSS & JS](https://monikode.github.io/elevator/) |[Pokedex with Vue.js](https://monikode.github.io/pokedex/)|
+| [100 Days CSS Challenge](https://monikode.github.io/100-days-css/) |[Pokedex with Vue.js](https://monikode.github.io/pokedex/)|
 |[Github timeline with Github API](https://monikode.github.io/github-timeline/)  | [Easy Code (Technical Course Completion Project)](https://github.com/MarlonFL15/EasyCode-front)  |  
 |[PC Hunter (Programming Logic II's Project)](https://github.com/ronaldocoding/pchunter) | [My Avatar with Vue.js](https://monikode.github.io/my-avatar/) |
 
